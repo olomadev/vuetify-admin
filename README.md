@@ -5,3 +5,6 @@
 Look at our project web site for detatiled documentation.
 
 https://oloma.dev/
+
+This respository created for seo.
+Project original repository here: https://github.com/olomadev/olobase-skeleton-ui
